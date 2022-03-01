@@ -1,1 +1,6 @@
 env_fintech/
+*.pem
+makefile
+__pycache__
+.dist
+*.pyc
